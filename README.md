@@ -20,3 +20,9 @@ This journey helps me:
 ---
 
 ## 📁 Repository Structure
+/A/ → Solutions for sheet A
+/B/ → Solutions for sheet B
+/C1/ → Solutions for sheet C1
+/C2/ → Solutions for sheet C2
+/D1/ → Solutions for sheet D1
+/D2/ → Solutions for sheet D2
