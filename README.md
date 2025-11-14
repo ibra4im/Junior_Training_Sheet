@@ -1,2 +1,22 @@
-# Junior_Training_Sheet
-This repository contains my solutions to problems from the Junior Training Sheet V7.0, a structured roadmap for improving competitive programming skills.  I solve the problems in order from the sheet and upload my code here to track progress, improve consistency, and build a solid foundation in algorithms and data structures.
+# 🧠 Junior Training Sheet – My Solutions
+
+This repository contains my personal solutions to the **Junior Training Sheet V7.0**, a structured roadmap designed to improve competitive programming skills step-by-step.
+
+📄 **Training Sheet Link:**  
+https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?gid=84654839
+
+---
+
+## 🚀 About This Repository
+I created this repo to track my progress as I solve problems from the sheet.  
+Each problem solution is uploaded here with clean code and organized folders.
+
+This journey helps me:
+- Build strong problem-solving skills  
+- Master key algorithms and data structures  
+- Become faster and more consistent  
+- Prepare for contests and technical interviews  
+
+---
+
+## 📁 Repository Structure
