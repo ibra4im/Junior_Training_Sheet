@@ -19,10 +19,10 @@ This journey helps me:
 
 ---
 
-## 📁 Repository Structure
-/A/ → Solutions for sheet A
-/B/ → Solutions for sheet B
-/C1/ → Solutions for sheet C1
-/C2/ → Solutions for sheet C2
-/D1/ → Solutions for sheet D1
-/D2/ → Solutions for sheet D2
+📂 Repository Root
+ ├── 📁 A/      → Solutions from Sheet A
+ ├── 📁 B/      → Solutions from Sheet B
+ ├── 📁 C1/     → Solutions from Sheet C1
+ ├── 📁 C2/     → Solutions from Sheet C2
+ ├── 📁 D1/     → Solutions from Sheet D1
+ └── 📁 D2/     → Solutions from Sheet D2
